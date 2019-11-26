@@ -1,0 +1,5 @@
+# 설정관련 파일 안올라가게 
+./config/*
+./crypto-config/*
+./connection-backup.json
+./application/wallet/*
